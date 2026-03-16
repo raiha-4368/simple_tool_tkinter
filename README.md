@@ -10,8 +10,8 @@ Tkinterを使用したシンプルなツール達をまとめたリポジトリ
 <summary>フォルダ構成(折り畳み)  </summary>
 
 simple_tool_tkinter/  
-├01_counter  
-└02_stopwatch  
+├counter  
+└stopwatch  
 └ .gitignore  
 └ README.md  
 
