@@ -48,7 +48,7 @@ class StopwatchApp:
         # mainフレーム内の要素
         # -------------------------        
         # タイム表示
-        self.stopwatch_label = tk.Label(self.main_frame, text="00:00:00", font=("Arial", 40), bg="#fffacd")
+        self.stopwatch_label = tk.Label(self.main_frame, text="00:00.00", font=("Arial", 40), bg="#fffacd")
         self.stopwatch_label.pack(pady=(50.50))
 
         # start
@@ -107,7 +107,7 @@ class StopwatchApp:
     def reset(self):
         self.stop()
         self.elapsed_time = 0
-        self.stopwatch_label['text'] = "00:00:00"
+        self.stopwatch_label['text'] = "00:00.00"
         self.toggle_buttons("reset")
 
     def toggle_buttons(self, state):
