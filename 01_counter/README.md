@@ -40,7 +40,6 @@ counter_tkinter/
 └ icon_01.ico  
 └ icon用.png  
 └ README.md  
-└ .gitignore    
 </details>
 
 ## 簡易設計

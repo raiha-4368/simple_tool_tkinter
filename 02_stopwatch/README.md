@@ -1,6 +1,6 @@
-# Timerアプリ
-## tkinterを使用したタイマーアプリケーション
-簡易ストップウォッチアプリケーション
+# Stopwatchアプリ
+## tkinterを使用したストップウォッチ
+簡易ストップウォッチ
 
 ## 実行イメージ
 ### 実行画面
@@ -36,7 +36,6 @@ counter_tkinter/
 └ icon_01.ico  
 └ icon用.png  
 └ README.md  
-└ .gitignore    
 </details>
 
 ## 簡易設計
