@@ -5,11 +5,11 @@ __pycache__/
 *.pyc
 
 # logs
-*/logs/
+/logs/
 *.log
 
 # build(exeファイル以外はgit管理に含めない)
-*/build/
+/build/
 main.spec
 
 # OS
