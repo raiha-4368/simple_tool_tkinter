@@ -7,9 +7,11 @@ Tkinterを使用したシンプルなツール達をまとめたリポジトリ
 
 ## Tools
 - counter
- 数をカウントするシンプルなツール
-- stopwatch
- start/stop/resetができるストップウォッチ
+ 数をカウントするシンプルなツール  
+- stopwatch  
+ start/stop/resetができるストップウォッチ  
+ - contdown  
+ 時間を設定し、0になるまで時間を計測するツール    
 
 ## フォルダ構成
 <details>
@@ -17,6 +19,7 @@ Tkinterを使用したシンプルなツール達をまとめたリポジトリ
 
 simple_tool_tkinter/  
 ├counter  
+├contdown  
 └stopwatch  
 └ .gitignore  
 └ README.md  
