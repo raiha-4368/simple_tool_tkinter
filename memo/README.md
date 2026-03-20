@@ -48,10 +48,10 @@ memo/
 
 main.py  
 	∟init(初期化)  
-	∟create_main_frame(初期画面)	
-	∟save_file(名前を付けて保存)	
-	∟update_file(上書き保存)	
-	∟import_file(ファイルを開く)	
+	∟create_main_frame(初期画面)  
+	∟save_file(名前を付けて保存)  
+	∟update_file(上書き保存)  
+	∟import_file(ファイルを開く)  
 
 </details>
 
