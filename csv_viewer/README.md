@@ -41,9 +41,9 @@ csv_viewer/
 │  └─main.exe  
 ├─docs  
 │  └─01_csv_viewer.png (実行時のスクリーンショット各種)  
-│  └─  :  
-│	 └─icon_01.clip(変換元ファイル)  
-│  └─icon_01.png(icon変換用ファイル)  
+│  └─  ...  
+│  └icon_01.clip(変換前iconファイル)  
+│  └icon_01.png(同上)  
 ├ main.py  
 └ icon_01.ico  
 └ README.md  
