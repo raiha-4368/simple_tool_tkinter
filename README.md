@@ -24,6 +24,9 @@ Tkinterを使用したシンプルなツール達をまとめたリポジトリ
  - rename_files  
  ディレクトリを選択し、その直下にあるファイル名を一括で変更することができるツール    
 
+- serial_number_files  
+ ディレクトリを選択し、その直下にあるフォルダ及びファイルに連番を付与することができるツール   
+
 - stopwatch  
  start/stop/resetができるストップウォッチ  
 
@@ -39,6 +42,7 @@ simple_tool_tkinter/
 ├memo  
 └pomodoro_timer  
 └rename_files  
+└serial_number_files  
 └stopwatch  
 └ .gitignore  
 └ README.md  
