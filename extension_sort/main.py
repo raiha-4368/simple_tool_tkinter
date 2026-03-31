@@ -219,6 +219,8 @@ class ExtensionSortApp:
                 messagebox.showwarning("警告","処理実行済みフォルダです。")
                 return
 
+            # error_resultは空にしておく
+            self.error_result = []
 
             self.ext_flag = False
             for filename, ext in self.preview_result:
