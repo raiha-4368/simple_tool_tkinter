@@ -1,15 +1,15 @@
-# フォルダ内連番付与アプリ
-## tkinterを使用したフォルダ内連番付与ツール
+# ファイル拡張子別振り分けアプリ
+## tkinterを使用した拡張子別振り分けツール
 拡張子ごとに自動でファイルを仕分けするアプリケーション
 ※拡張子がないファイルはnot_extフォルダに格納されます。
 
 ## 実行イメージ
 ### 実行画面
-![実行画面01](docs/01_serial_number_files(初期画面).png)
-![実行画面02](docs/02_serial_number_files(フォルダ選択).png)
-![実行画面03](docs/03_serial_number_files(プレビュー押下).png)
-![実行画面04](docs/04_serial_number_files(成功).png)
-![実行画面05](docs/05_serial_number_files(エラー).png)
+![実行画面01](docs/01_extension_sort(初期画面).png)
+![実行画面02](docs/02_extension_sort(フォルダ選択).png)
+![実行画面03](docs/03_extension_sort(プレビュー押下).png)
+![実行画面04](docs/04_extension_sort(成功).png)
+![実行画面05](docs/05_extension_sort(警告).png)
 
 ## できること
 - フォルダの選択/フォルダ場にあるファイルを表示  
