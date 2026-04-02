@@ -34,6 +34,8 @@ Tkinterを使用したシンプルなツール達をまとめたリポジトリ
 - stopwatch  
  start/stop/resetができるストップウォッチ  
 
+- text_extract  
+ 選択したファイル内から任意の文字列を含む行を検索し、抽出するツール  
 
 ## フォルダ構成
 <details>
@@ -49,6 +51,7 @@ simple_tool_tkinter/
 └rename_files  
 └serial_number_files  
 └stopwatch  
+└text_extract  
 └ .gitignore  
 └ README.md  
 
